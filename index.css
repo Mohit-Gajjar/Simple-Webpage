@@ -1,0 +1,139 @@
+.home-child {
+  position: absolute;
+  top: 33px;
+  left: 46px;
+  border-radius: 30px;
+  background-color: rgba(18, 17, 17, 0.47);
+  backdrop-filter: blur(4px);
+  width: 1188px;
+  height: 60px;
+}
+.admission {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+}
+.home1 {
+  top: 48px;
+  left: 435px;
+}
+.home1,
+.student {
+  position: absolute;
+  font-size: var(--font-size-2xl);
+}
+.admission {
+  top: 47px;
+  left: 582px;
+}
+.student {
+  top: 48px;
+  left: 781px;
+}
+.home-item {
+  position: absolute;
+  top: 244px;
+  left: 81px;
+  border-radius: 23px;
+  background-color: rgba(255, 255, 255, 0.29);
+  backdrop-filter: blur(4px);
+  width: 205px;
+  height: 470px;
+}
+.practical-1,
+.practical-2 {
+  position: absolute;
+  top: 275px;
+  left: 133px;
+}
+.practical-2 {
+  top: 323px;
+  left: 130px;
+}
+.practical-3 {
+  left: 130px;
+}
+.practical-3,
+.practical-4 {
+  position: absolute;
+}
+.practical-3 {
+  top: 371px;
+}
+.practical-4 {
+  top: 419px;
+  left: 129px;
+}
+.practical-5 {
+  position: absolute;
+  top: 466px;
+  left: 129px;
+}
+.practical-6 {
+  left: 129px;
+}
+.practical-6,
+.practical-7 {
+  position: absolute;
+}
+.practical-6 {
+  top: 513px;
+}
+.practical-7 {
+  top: 560px;
+  left: 130px;
+}
+.practical-8,
+.practical-9 {
+  position: absolute;
+  top: 608px;
+  left: 129px;
+}
+.practical-9 {
+  top: 656px;
+}
+.best-private-university,
+.charotar-university-of {
+  position: absolute;
+  font-size: var(--font-size-22xl);
+}
+.charotar-university-of {
+  top: 111px;
+  left: 81px;
+}
+.best-private-university {
+  top: 164px;
+  left: 309px;
+  color: rgba(255, 255, 255, 0.53);
+}
+.copyright-charusat-university,
+.lorem-ipsum-is {
+  position: absolute;
+  font-size: var(--font-size-6xl);
+  text-align: left;
+}
+.lorem-ipsum-is {
+  text-decoration: none;
+  top: 257px;
+  left: 312px;
+  color: inherit;
+  display: inline-block;
+  width: 898px;
+}
+.copyright-charusat-university {
+  top: 771px;
+  left: 60px;
+}
+.home {
+  position: relative;
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  background-image: url(ch.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
